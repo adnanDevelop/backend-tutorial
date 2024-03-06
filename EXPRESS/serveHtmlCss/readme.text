@@ -1,0 +1,7 @@
+What is Template engine?
+A template engine enables you to use static template files in your application. At runtime template engine replaces variables in a template file with actual values , and transforms the template into an html file sent to the client. This approach make it easier to design an html page.
+Some popular template engines that work with express are pug , mutstache , and ejs. The express application generator uses jade as its default, but it also supports several others.
+
+
+What is parial?
+In Express.js, partials refer to reusable components or snippets of HTML code that can be included in multiple views or templates. They help in organizing and maintaining code by reducing duplication. Partial templates are especially useful for elements that are repeated across multiple pages of a website, such as headers, footers, navigation bars, or sidebars.

@@ -1,0 +1,2 @@
+What is buffer?
+Node js include additional datatype call buffer. It's not available in browser javascript. It us mainly used to store binary data. While reading from a file or receiving packets over the network.
